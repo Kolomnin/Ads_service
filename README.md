@@ -33,4 +33,6 @@
 <li><a href="https://github.com/Kolomnin">Коломнин Сергей</a></li>
 <li><a href="https://github.com/MAMayakina">Маякина Мария</a></li>
 <li><a href="https://github.com/Powerandzeal">Панин Сергей</a></li>
+<li><a href="https://github.com/Northinrtm">Северин Артем</a></li>
+  
 </ul>
