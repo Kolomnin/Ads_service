@@ -28,6 +28,16 @@
     
 </ul>
 
+**Для запуска нужно:**
+1. Клонировать проект в среду разработки</li>
+2. Настроить БД и прописать значения в файле **[application.properties](src/main/resources/application.properties)** 
+3. Скачать **[Docker](https://www.docker.com)** и запустить его.
+4. Скачать Docker образ с помощью команды ```docker pull ghcr.io/bizinmitya/front-react-avito:latest``` 
+5. Запустить Docker образ с помощью команды ```docker run -p 3000:3000 ghcr.io/bizinmitya/front-react-avito:latest``` 
+6. Запустить метод **main** в файле **[HomeworkApplication.java](src/main/java/com/example/finaltask/FinalTaskApplication.java)** 
+
+После этого вам будет доступен сайт  http://localhost:3000 и Swagger UI   http://localhost:8080/swagger-ui/index.html#.
+
 <h3>Участники проекта:</h3>
 <ul>
 <li><a href="https://github.com/Kolomnin">Коломнин Сергей</a></li>
